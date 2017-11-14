@@ -1,7 +1,22 @@
 # Dependency directory
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+
+# Node
 npm-debug.log
 node_modules/
 
-# Webstorm
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
 .idea/
+
+# vi
+*~
+
+# General
+log/
+*.log
